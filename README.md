@@ -8,7 +8,8 @@ We allow modification of our software, just credit us, thank you.
 1.) `cd C:\Users\You\Documents\Arduino` replace path with your Arduino save location
 (default on Windows is C:\Users\You\Documents\Arduino)
 
-2.) If you don't have Git installed you will need to do so here https://git-scm.com/ \n
+2.) If you don't have Git installed you will need to do so here https://git-scm.com/
+
 `git clone https://github.com/chestermerelaketemperature/Temperature-Reader` This will create a new folder within the Arduino save directory.
 
 3.) You can now open this project in the Arduino IDE.
