@@ -1,6 +1,7 @@
-/***********************
- Bluetooth test program
-***********************/
+/*****************************
+ Bluetooth Temperature Reader
+*****************************/
+
 //OneWire documentation: https://www.pjrc.com/teensy/td_libs_OneWire.html
 //http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip
 #include <OneWire.h>
