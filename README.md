@@ -1,6 +1,7 @@
 # Temperature-Reader
 The source code for the automated water temperature reader.
 
+We use GNU General Public License v3.0 for our licence.
 We allow modification of our software, just credit us, thank you.
 
 ## Compiling
