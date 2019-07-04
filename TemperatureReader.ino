@@ -12,6 +12,7 @@ int incomingByte;
 
 void setup() {
     Serial.begin(115200);
+    Serial.println("Started on Serial 115200");
 }
 
 void loop() {
@@ -38,6 +39,7 @@ float getTemperature() {
         Serial.print("Device is not recognized");
         return -1000;
     }
+    wire.reset();
     wire.select(address);
     wire.write(0x44,1); //start conversion, with parasite power on at the end.
     wire.reset();
