@@ -1,5 +1,10 @@
 /*****************************
- Bluetooth Temperature Reader
+  Bluetooth Temperature Reader
+
+  Created by the ChestermereLakeTemperature.com team
+  https://github.com/chestermerelaketemperature
+
+  If you modify this file please keep a reference to our GitHub.
 *****************************/
 
 //OneWire documentation: https://www.pjrc.com/teensy/td_libs_OneWire.html
