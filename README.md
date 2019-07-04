@@ -15,7 +15,7 @@ This will create a new folder within the Arduino save directory.
 3.) You can now open this project in the Arduino IDE.
 
 ## Contributing
-This project follows Ardunio's and Google's C++ code standards
+This project follows Ardunio's and Google's C++ code standards, and we use a double tab/4 space indentation.
 
 https://www.arduino.cc/en/Reference/StyleGuide
 
@@ -23,9 +23,14 @@ https://google.github.io/styleguide/cppguide.html
 
 Please follow our code standards when contributing to our projects.
 
+
 We review all pull requests to this project.
+
 To create a pull request on GitHub you first need to fork this project.
+
 Once you have a fork, modify the git remote to direct to your fork, then you can modify and push to that repo.
+
 When you have completed your changes, you can create a pull request on our GitHub page
+
 https://github.com/chestermerelaketemperature/Temperature-Reader/compare
 
